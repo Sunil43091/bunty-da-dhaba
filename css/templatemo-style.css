@@ -1092,6 +1092,7 @@ address {
     background:#f8f9fa;
     padding:20px;
     border-radius:15px;
+    max-width: fit-content;
 }
 
 .info-item a{
